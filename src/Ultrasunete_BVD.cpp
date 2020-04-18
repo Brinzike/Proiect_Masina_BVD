@@ -9,7 +9,7 @@ void setari_ultrasune_BVD()
 float masoara_distanta()
 {
 	long durata;
-	int distanta;
+	float distanta;
 	
 	// Asteptam sa se faca liniste
 	digitalWrite(PIN_TRIG, LOW);
